@@ -4,7 +4,7 @@ var connect = require('gulp-connect');
 var minify = require('gulp-minify');
 
 var config = {
-    bootstrapDir: './bower_components/bootstrap-sass',
+    bootstrapDir: './nonmanaged_vendor_libs/bootstrap-sass',
     scssSource: './scss/**/*.scss',
     jsSource: './js/**/*.js',
     publicDir: './public',
