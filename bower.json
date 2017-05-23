@@ -1,0 +1,21 @@
+{
+  "name": "booking.campgroundtools.com",
+  "description": "booking site for campgroundtools.com",
+  "main": "index.html",
+  "authors": [
+    "rob tracy (rob@powerit.io)"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
