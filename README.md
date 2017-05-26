@@ -44,5 +44,7 @@ note that as you change ans save the html, js or scss inthe project the running 
 
 ctrl+c in your command window will stop the webserver
 
+To see everything working while running lets change the color of one of the bootstrap primary colors, they are located in the scss _variables file I added from bootswatch, you can find this here "booking.campgroundtools.com/nonmanaged_vendor_libs/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss" just change one ofthe brand default colors, then save.  you will see it recompile on the command line and your open browser should reflect the change.
+
 
 
